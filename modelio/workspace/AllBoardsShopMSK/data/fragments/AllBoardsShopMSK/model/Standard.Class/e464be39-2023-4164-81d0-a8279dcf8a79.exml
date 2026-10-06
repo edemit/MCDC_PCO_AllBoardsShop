@@ -65,7 +65,7 @@
           </DEPENDENCIES>
         </OBJECT>
         <OBJECT>
-          <ID name="ventes" mc="Standard.Attribute" uid="5dfa3061-ac5d-4dd3-b48f-fd1188b0a74b"/>
+          <ID name="ventesProposees" mc="Standard.Attribute" uid="5dfa3061-ac5d-4dd3-b48f-fd1188b0a74b"/>
           <ATTRIBUTES>
             <ATT name="TypeConstraint"></ATT>
             <ATT name="Value"></ATT>
@@ -79,7 +79,7 @@
             <ATT name="Visibility">Public</ATT>
             <ATT name="IsClass">false</ATT>
             <ATT name="IsAbstract">false</ATT>
-            <ATT name="Name"><![CDATA[ventes]]></ATT>
+            <ATT name="Name"><![CDATA[ventesProposees]]></ATT>
             <ATT name="status">1970354901745664</ATT>
           </ATTRIBUTES>
           <DEPENDENCIES>
@@ -100,6 +100,19 @@
           <DEPENDENCIES>
             <LINK relation="SuperType">
               <ID name="Acteur" mc="Standard.Class" uid="26f04e55-2531-4749-9cbf-6f0cbf63e4e6"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Generalization" mc="Standard.Generalization" uid="72f9e072-2114-44ed-9120-c1d5cd605bd2"/>
+          <ATTRIBUTES>
+            <ATT name="Discriminator"></ATT>
+            <ATT name="Name"><![CDATA[Generalization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="SuperType">
+              <ID name="Produit" mc="Standard.Class" uid="46dddb07-9a68-41cd-a4eb-63e33fd6b613"/>
             </LINK>
           </DEPENDENCIES>
         </OBJECT>
