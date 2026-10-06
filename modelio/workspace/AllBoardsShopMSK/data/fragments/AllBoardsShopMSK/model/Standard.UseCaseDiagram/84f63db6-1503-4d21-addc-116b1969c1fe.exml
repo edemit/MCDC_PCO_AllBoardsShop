@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Diagramme de cas d'utilisation allboardsshopmsk" version="4">
+  <OBJECT>
+    <ID name="Diagramme de cas d'utilisation allboardsshopmsk" mc="Standard.UseCaseDiagram" uid="84f63db6-1503-4d21-addc-116b1969c1fe"/>
+    <PID name="allboardsshopmsk" mc="Standard.Package" uid="4736bb05-93a3-4931-a2ca-bb2cf5e5844e"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztlV1P2zAUhv+K5Ztd1W1aVg0pFEE7VYhsRWVM2hU6qU+D4diubAeWf4+zpoyGtWMS0m64SnTs877n41GSHv/UxO7ReWXNEU9Ej7PjUTrLb3ERmJIxxFmoVnjErSuEthJJWVFqEqXHBXiUCgoHWsSXYJ1AQo0m+PbxVF95HMfAZB3gTMOtdddP1j0+Si+cXaELFTOgoyNBZcswgQDx7DtQiU0ppiTi3VHa3SS8SL0MFeE/ZzkkCCjnuGylfqlD7L6O1NpgJDgptjtinw6Ww4HMh53kY2/QOZD9pANSLjpJMsyTw+HhIlnifn8CH86NfTAZ5EitGi6DU6bgo8ZOI5PI4oiZ/FAGRcpDiINkQJTbWJ33N3al/V3a/SWyt21LeGbGVq+sV7XIDudXSI1vFEmHtUKmfIhXm8fOjEyZO//666fFxMFDLCeDCh3fQrX/J1Sf+NyAKdf5XlCtEMHcEnzH8qW/krtQnIrs5Mfn+fXpyfh8Op9dfZ28DSPd9Vb3qTzf2m9+ntEweKfhP9HwbXbx1hj87bPQ/r2IZmWtUs9MwKLeazOlfqvVjeEjDAd4cw==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAABHNCSVQICAgIfAhkiAAAACNJREFUOI1j/P///38GKgMmahs4auiooaOGjho6auiooVQCAFkwBCaD6blRAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Diagramme de cas d'utilisation allboardsshopmsk]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="07de46ab-57e4-4d58-be21-c8a61519b6d4"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

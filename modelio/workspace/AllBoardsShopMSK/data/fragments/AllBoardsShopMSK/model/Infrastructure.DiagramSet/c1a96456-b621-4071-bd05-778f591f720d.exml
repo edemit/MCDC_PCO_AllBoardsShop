@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AllBoardsShopMSK" version="4">
+  <OBJECT>
+    <ID name="AllBoardsShopMSK" mc="Infrastructure.DiagramSet" uid="c1a96456-b621-4071-bd05-778f591f720d"/>
+    <PID name="AllBoardsShopMSK" mc="Standard.Project" uid="64b29503-6483-4188-9c9b-f90fdad2434b"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[AllBoardsShopMSK]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
